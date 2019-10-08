@@ -57,7 +57,9 @@ This is a short reference guide, for a more full context, please refer to our [C
 
 ### Development
 
-1. Fork project to your repository
+1. Fork project to your repository see image
+![](https://i.ibb.co/XL1d3st/download.png)
+[or view here](https://i.ibb.co/XL1d3st/download.png)
 2. Clone to local machine with `git clone`
 3. `cd` into the directory
 4. Run `npm install`
